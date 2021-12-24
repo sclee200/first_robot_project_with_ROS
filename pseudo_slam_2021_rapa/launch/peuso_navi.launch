@@ -1,0 +1,7 @@
+<launch>
+    <group ns="rapa">
+        <node pkg="first_robot_project_with_ROS" type="parking.py" name="parking.py"/>
+        <node pkg="first_robot_project_with_ROS" type="qr.py" name="qr.py"/>
+        <node pkg="first_robot_project_with_ROS" type="relay.py" name="relay.py"/>         
+    </group>
+</launch>
