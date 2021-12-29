@@ -30,6 +30,6 @@ Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.
 ## exclamation points of members  
 Lee sang chul : this project gave me the deep architure of ROS, but this is common project, so the answers were poor mostly.   
 Kim bong jin : ROS? 아직 멀었다.  
-kim chang sun : ROS의 세계  
+kim chang sun : ROS의 세계는 멀고 험하다.    
 
 
