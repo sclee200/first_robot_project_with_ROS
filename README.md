@@ -18,10 +18,14 @@ Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.
 <img src = "https://user-images.githubusercontent.com/80735382/147632962-1da4d1de-f368-4fd6-b12e-ab626bf023f3.png" alt= "robot finish driving and parking"/>
      
 <embed src = "https://youtu.be/AYQwXWP7OH8"  alt="turtlebot3-burger driving moving"/>
+[![Video Label](http://img.youtube.com/vi/n64z70I2Wrk/0.jpg)](https://youtu.be/n64z70I2Wrk?t=0s)
 
 # difficulties of project process
-
-[![Video Label](http://img.youtube.com/vi/n64z70I2Wrk/0.jpg)](https://youtu.be/n64z70I2Wrk?t=0s)
+ <ul>
+  <li>knowlege absence of deep ROS structures</li>
+  <li>wandering how to configure gazebo urdf and sdf files</li>
+  <li>shallow knowledge of physics</li>
+</ul> 
 
 
 
