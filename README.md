@@ -7,15 +7,15 @@ Kim bong jin : implement almost algorithm and simulation configurations.
 Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.  
 
 # algorithm architecture
-<img src="https://user-images.githubusercontent.com/80735382/147632591-0f21271a-604e-4213-97fa-4554c944f89d.png" alt="entire architecture">
+<img src="https://user-images.githubusercontent.com/80735382/147632591-0f21271a-604e-4213-97fa-4554c944f89d.png" alt="entire architecture"/>
  
 
 #Result implemented with gazebo simulations
 
- <img src = "https://user-images.githubusercontent.com/80735382/147632831-a8b1f007-a4e5-4a46-8a49-0ffbcc2c878c.png" alt = "initial rorot pose">
-< img src = "https://user-images.githubusercontent.com/80735382/147632891-904283fa-529e-4bab-9889-73541d5b3150.png" alt = "robot driving1">
-<img src = "https://user-images.githubusercontent.com/80735382/147632922-41e3c229-dd5b-4327-9608-910bade3bfac.png" alt="robot driving2">
-<img src = "https://user-images.githubusercontent.com/80735382/147632962-1da4d1de-f368-4fd6-b12e-ab626bf023f3.png" alt= "robot finish driving and parking" 
+ <img src = "https://user-images.githubusercontent.com/80735382/147632831-a8b1f007-a4e5-4a46-8a49-0ffbcc2c878c.png" alt = "initial rorot pose"/>
+< img src = "https://user-images.githubusercontent.com/80735382/147632891-904283fa-529e-4bab-9889-73541d5b3150.png" alt = "robot driving1"/>
+<img src = "https://user-images.githubusercontent.com/80735382/147632922-41e3c229-dd5b-4327-9608-910bade3bfac.png" alt="robot driving2"/>
+<img src = "https://user-images.githubusercontent.com/80735382/147632962-1da4d1de-f368-4fd6-b12e-ab626bf023f3.png" alt= "robot finish driving and parking"/>
      
  
 
