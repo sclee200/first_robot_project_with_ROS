@@ -17,7 +17,7 @@ Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.
 <img src = "https://user-images.githubusercontent.com/80735382/147632922-41e3c229-dd5b-4327-9608-910bade3bfac.png" alt="robot driving2"/>
 <img src = "https://user-images.githubusercontent.com/80735382/147632962-1da4d1de-f368-4fd6-b12e-ab626bf023f3.png" alt= "robot finish driving and parking"/>
      
-<embed src = "https://youtu.be/AYQwXWP7OH8"  alt="turtlebot3-burger driving moving"/>
+ 
 [![Video Label](http://img.youtube.com/vi/n64z70I2Wrk/0.jpg)](https://youtu.be/n64z70I2Wrk?t=0s)
 
 # difficulties of project process
