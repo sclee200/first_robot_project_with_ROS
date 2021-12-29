@@ -21,7 +21,7 @@ Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.
 
 # difficulties of project process
 
-
+[![Video Label](http://img.youtube.com/vi/n64z70I2Wrk/0.jpg)](https://youtu.be/n64z70I2Wrk?t=0s)
 
 
 
