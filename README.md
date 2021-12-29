@@ -27,6 +27,9 @@ Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.
   <li>shallow knowledge of physics</li>
 </ul> 
 
-
+#exclamation points of members
+Lee sang chul : this project gave me the deep architure of ROS, but this is common project, so the answers were poor mostly.
+Kim bong jin : ROS? 아직 멀었다.
+kim chang sun : ROS의 세계
 
 
