@@ -7,7 +7,8 @@ Kim bong jin : implement almost algorithm and simulation configurations.
 Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.  
 
 # algorithm architecture
- https://user-images.githubusercontent.com/80735382/147632591-0f21271a-604e-4213-97fa-4554c944f89d.png
+<img src="https://user-images.githubusercontent.com/80735382/147632591-0f21271a-604e-4213-97fa-4554c944f89d.png" alt="entire architecture">
+ 
 
 #Result implemented with gazebo simulations  
  https://user-images.githubusercontent.com/80735382/147632831-a8b1f007-a4e5-4a46-8a49-0ffbcc2c878c.png
