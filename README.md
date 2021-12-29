@@ -13,7 +13,7 @@ Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.
 #Result implemented with gazebo simulations
 
  <img src = "https://user-images.githubusercontent.com/80735382/147632831-a8b1f007-a4e5-4a46-8a49-0ffbcc2c878c.png" alt = "initial rorot pose"/>
-< img src = "https://user-images.githubusercontent.com/80735382/147632891-904283fa-529e-4bab-9889-73541d5b3150.png" alt = "robot driving1"/>
+< img src = "file:///home/lsc/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C/%EC%A3%BC%ED%96%89%EC%A4%91.png![image](https://user-images.githubusercontent.com/80735382/147633634-7a5035a1-6b73-474a-bc3f-484c7dad9f65.png)" alt = "robot driving1"/>
 <img src = "https://user-images.githubusercontent.com/80735382/147632922-41e3c229-dd5b-4327-9608-910bade3bfac.png" alt="robot driving2"/>
 <img src = "https://user-images.githubusercontent.com/80735382/147632962-1da4d1de-f368-4fd6-b12e-ab626bf023f3.png" alt= "robot finish driving and parking"/>
      
