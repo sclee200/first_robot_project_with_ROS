@@ -10,7 +10,7 @@ Kim chang sun : suggest tema goal, write project plan, and discuss algorithms.
 <img src="https://user-images.githubusercontent.com/80735382/147632591-0f21271a-604e-4213-97fa-4554c944f89d.png" alt="entire architecture"/>
  
 
-##Result implemented with gazebo simulations
+## Result implemented with gazebo simulations
 
  <img src = "https://user-images.githubusercontent.com/80735382/147632831-a8b1f007-a4e5-4a46-8a49-0ffbcc2c878c.png" alt = "initial rorot pose"/>
  <img src = "https://user-images.githubusercontent.com/80735382/147633634-7a5035a1-6b73-474a-bc3f-484c7dad9f65.png" alt = "robot driving1"/>
